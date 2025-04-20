@@ -2,9 +2,9 @@ import asyncio
 from telethon import TelegramClient, events
 
 # Configuration
-api_id = 25832930
-api_hash = "195ca033be7ed84333a8f7940cd5fa76"
-phone_number = '+917303343801'
+api_id = 
+api_hash = ""
+phone_number = '+91'
 YOUR_PERSONAL_CHAT = "@adihacks2"
 
 MONITOR_CHANNELS = [
